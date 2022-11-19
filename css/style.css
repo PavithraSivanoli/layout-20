@@ -1,0 +1,404 @@
+.start .wrapper
+{
+width:80%;
+margin:auto;
+}
+.start
+{
+background-color:black;
+height:300px;
+color:white;
+}
+.homepage
+{
+background-color:pink;
+height:550px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.homepage .homepage-fc
+{
+display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+
+.homepage .homepage-fc .home
+{
+	
+width:100%;
+text-align:center;
+
+}
+
+.homepage .homepage-fc .boxa
+
+{
+	background-color:lightblue;
+	width:300px;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.homepage .homepage-fc .boxb
+{
+
+background-color:lightblue;
+	width:300px;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.homepage .homepage-fc .boxc
+{
+
+	background-color:lightblue;
+	width:300px;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.dashboard
+{
+background-color:plum;
+height:550px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.dashboard .dashboard-fc
+{
+display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+
+.dashboard .dashboard-fc .dashboard
+{
+	
+width:100%;
+text-align:center;
+
+}
+
+.dashboard .dashboard-fc .boxa
+
+{
+	background-color:lightblue;
+	width:25%;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.dashboard .dashboard-fc .boxb
+{
+
+background-color:grey;
+	width:25%;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.dashboard .dashboard-fc .boxc
+{
+
+	background-color:lightblue;
+	width:25%;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.dashboard .dashboard-fc .boxd
+{
+
+	background-color:grey;
+	width:25%;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.profile
+{
+background-color:pink;
+height:550px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.profile .profile-fc
+{
+display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+
+.profile  .profile-fc .profile 
+{
+	
+width:100%;
+text-align:center;
+
+}
+
+.profile .profile-fc .boxa
+
+{
+	background-color:lightblue;
+	width:300px;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.profile .profile-fc .boxb
+{
+
+background-color:lightblue;
+	width:300px;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.profile  .profile-fc .boxc
+{
+
+	background-color:lightblue;
+	width:300px;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.essential
+{
+background-color:plum;
+height:550px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.essential .essential-fc
+{
+display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+
+.essential .essential-fc .essential
+{
+	
+width:100%;
+text-align:center;
+
+}
+
+.essential .essential-fc .boxa
+
+{
+	background-color:lightblue;
+	width:25%;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.essential .essential-fc .boxb
+{
+
+background-color:grey;
+	width:25%;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.essential .essential-fc .boxc
+{
+
+	background-color:lightblue;
+	width:25%;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.essential .essential-fc .boxd
+{
+
+	background-color:grey;
+	width:25%;
+	height:276px;
+	text-align:center;
+	margin-top:150px;
+}
+.features
+{
+background-color:lightgreen;
+height:1200px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.features .features-fc
+{
+display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+
+.features .features-fc .features
+{
+	
+width:100%;
+text-align:center;
+
+}
+
+.features .features-fc .boxa
+
+{
+	background-color:lightblue;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxb
+{
+
+background-color:grey;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxc
+{
+
+	background-color:lightblue;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxd
+{
+
+	background-color:grey;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxe
+
+{
+	background-color:lightblue;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxf
+{
+
+background-color:grey;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxg
+{
+
+	background-color:lightblue;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxh
+{
+
+	background-color:grey;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxi
+
+{
+	background-color:lightblue;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxj
+{
+
+background-color:grey;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxk
+{
+
+	background-color:lightblue;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.features .features-fc .boxl
+{
+
+	background-color:grey;
+	width:25%;
+	height:200px;
+	text-align:center;
+	margin-top:150px;
+}
+.camp2
+{
+	background-color:#92a8d1;
+	height:400px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.camp2 .camp2-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+	text-align:center;
+	
+}
+
+.camp2 .camp2-fc .boxA
+{
+
+	width:150px;
+	height:30px;
+	margin-top:300px;
+	background-color:silver;
+}
